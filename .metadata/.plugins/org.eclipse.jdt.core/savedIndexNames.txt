@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\Aluno\Documents\fabia-bia\pw2-classe\.metadata\.plugins\org.eclipse.jdt.core
+1976103059.index
+1939595925.index
