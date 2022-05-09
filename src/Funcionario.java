@@ -1,4 +1,6 @@
 
-public class Funcionario {
-
+public class Funcionario
+{
+	public String cargo;
+	public String salario;
 }
