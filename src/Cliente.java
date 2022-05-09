@@ -2,7 +2,7 @@
 public class Cliente 
 {
 	public String nome;
-	public tring 
+	public String codigo;
 	public StatusEnum status;
 	
 }
